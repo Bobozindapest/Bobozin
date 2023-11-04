@@ -1,0 +1,2 @@
+# Bobozin
+python lel.py
