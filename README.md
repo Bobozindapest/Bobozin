@@ -1,2 +1,2 @@
-# Bobozin
+# botnetv
 python lel.py
